@@ -1,0 +1,8 @@
+@inproceedings{luo2011exposing,
+  title={Exposing invisible timing-based traffic watermarks with BACKLIT},
+  author={Luo, Xiapu and Zhou, Peng and Zhang, Junjie and Perdisci, Roberto and Lee, Wenke and Chang, Rocky KC},
+  booktitle={Proceedings of the 27th Annual Computer Security Applications Conference},
+  pages={197--206},
+  year={2011},
+  organization={ACM}
+}
