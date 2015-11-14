@@ -1,0 +1,9 @@
+@article{zhou2015priori,
+  title={A priori trust inference with context-aware stereotypical deep learning},
+  author={Zhou, Peng and Gu, Xiaojing and Zhang, Jie and Fei, Minrui},
+  journal={Knowledge-Based Systems},
+  volume={88},
+  pages={97--106},
+  year={2015},
+  publisher={Elsevier}
+}
