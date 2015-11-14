@@ -1,0 +1,10 @@
+@article{luo2012robust,
+  title={Robust Network Covert Communications Based on TCP and Enumerative Combinatorics},
+  author={Luo, Xiapu and Chan, Edmond WW and Zhou, Peng and Chang, Rocky KC},
+  journal={Dependable and Secure Computing, IEEE Transactions on},
+  volume={9},
+  number={6},
+  pages={890--902},
+  year={2012},
+  publisher={IEEE}
+}
