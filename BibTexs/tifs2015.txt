@@ -1,0 +1,10 @@
+@article{zhou2015toward,
+  title={Toward Energy-Efficient Trust System Through Watchdog Optimization for WSNs},
+  author={Zhou, Peng and Jiang, Siwei and Irissappane, Athirai and Zhang, Jie and Zhou, Jianying and Teo, Joseph Chee Ming},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={10},
+  number={3},
+  pages={613--625},
+  year={2015},
+  publisher={IEEE}
+}
