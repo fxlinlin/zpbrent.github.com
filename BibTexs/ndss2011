@@ -1,0 +1,6 @@
+@inproceedings{luo2011httpos,
+  title={HTTPOS: Sealing Information Leaks with Browser-side Obfuscation of Encrypted Flows.},
+  author={Luo, Xiapu and Zhou, Peng and Chan, Edmond WW and Lee, Wenke and Chang, Rocky KC and Perdisci, Roberto},
+  booktitle={NDSS},
+  year={2011}
+}
