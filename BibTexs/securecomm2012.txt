@@ -1,0 +1,8 @@
+@incollection{zhou2013more,
+  title={More anonymity through trust degree in trust-based onion routing},
+  author={Zhou, Peng and Luo, Xiapu and Chang, Rocky KC},
+  booktitle={Security and Privacy in Communication Networks},
+  pages={273--291},
+  year={2013},
+  publisher={Springer}
+}

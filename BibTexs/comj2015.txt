@@ -1,0 +1,8 @@
+@article{zhou2015harvesting,
+  title={Harvesting File Download Exploits in the Web: A Hacker's View},
+  author={Zhou, Peng and Gu, Xiaojing and Chang, Rocky KC},
+  journal={The Computer Journal},
+  pages={bxv072},
+  year={2015},
+  publisher={Br Computer Soc}
+}

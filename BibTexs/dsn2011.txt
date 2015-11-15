@@ -1,0 +1,9 @@
+
+@inproceedings{luo2011combinatorial,
+  title={A combinatorial approach to network covert communications with applications in Web Leaks},
+  author={Luo, Xiapu and Zhou, Peng and Chan, Edmond WW and Chang, Rocky KC and Lee, Wenke},
+  booktitle={Proceeding of the IEEE/IFIP 41st International Conference on Dependable Systems \& Networks (DSN)},
+  pages={474--485},
+  year={2011},
+  organization={IEEE}
+}
