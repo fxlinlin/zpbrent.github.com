@@ -1,0 +1,7 @@
+@article{zhou2016httpas,
+  title={HTTPAS: Active Authentication against HTTPS Man-in-the-middle Attacks},
+  author={Zhou, Peng and Gu, Xiaojing},
+  journal={IET Communications},
+  year={2016},
+  publisher={IET}
+}
